@@ -1,4 +1,4 @@
-# 🚀 Web Scraping Project with Streamlit
+# 🚀 Web Scraping Project with Streamlit , BeautifulSoup, Selenium Web Driver 
 
 This is a Python-based web scraping project using `Selenium`, `BeautifulSoup`, and `Streamlit`. The script launches a Chrome browser, loads a website, extracts the page source, and processes the data.
 
